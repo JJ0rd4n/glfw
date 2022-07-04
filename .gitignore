@@ -2,6 +2,7 @@
 build
 
 # Visual Studio clutter
+.DS_Store
 _ReSharper*
 *.sdf
 *.suo
@@ -101,3 +102,4 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+int
